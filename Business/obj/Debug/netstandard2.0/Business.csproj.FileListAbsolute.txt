@@ -1,0 +1,14 @@
+C:\Users\akbul\source\repos\MyProject\Business\bin\Debug\netstandard2.0\Business.deps.json
+C:\Users\akbul\source\repos\MyProject\Business\bin\Debug\netstandard2.0\Business.dll
+C:\Users\akbul\source\repos\MyProject\Business\bin\Debug\netstandard2.0\Business.pdb
+C:\Users\akbul\source\repos\MyProject\Business\bin\Debug\netstandard2.0\DataAccess.dll
+C:\Users\akbul\source\repos\MyProject\Business\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\akbul\source\repos\MyProject\Business\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\akbul\source\repos\MyProject\Business\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\akbul\source\repos\MyProject\Business\obj\Debug\netstandard2.0\Business.csprojAssemblyReference.cache
+C:\Users\akbul\source\repos\MyProject\Business\obj\Debug\netstandard2.0\Business.AssemblyInfoInputs.cache
+C:\Users\akbul\source\repos\MyProject\Business\obj\Debug\netstandard2.0\Business.AssemblyInfo.cs
+C:\Users\akbul\source\repos\MyProject\Business\obj\Debug\netstandard2.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\akbul\source\repos\MyProject\Business\obj\Debug\netstandard2.0\Business.csproj.CopyComplete
+C:\Users\akbul\source\repos\MyProject\Business\obj\Debug\netstandard2.0\Business.dll
+C:\Users\akbul\source\repos\MyProject\Business\obj\Debug\netstandard2.0\Business.pdb
